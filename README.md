@@ -31,7 +31,3 @@ cd tutor-website
 
 3. **Open in web browser**
    Open the `index.html` file in your web browser or use a live server tool.
-
-## License
-
-This project is licensed under the MIT License.
